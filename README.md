@@ -37,7 +37,7 @@
 <div markdown="1">
 
 ### 핵심 키워드
-- 액티브 크로저
+- Active close Passive close
 - readtimeout connectiontimeout
 - ssl
 - 비잔틴문제
