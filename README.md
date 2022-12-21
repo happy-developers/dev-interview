@@ -23,11 +23,17 @@
 
 ### 핵심 키워드
 - 프로세스 & 스레드
+    - [프로세스의 메모리 구조에 대해서 설명해주세요](https://github.com/happy-developers/dev-interview/issues/3)
+    - [프로세스와 스레드의 차이점은 무엇인가요?](https://github.com/happy-developers/dev-interview/issues/4)
+    - [멀티스레드와 멀티프로세스의 차이는 무엇인가요?](https://github.com/happy-developers/dev-interview/issues/5)
+    - [사용자 스레드와 커널 스레드의 차이점은 무엇인가요?](https://github.com/happy-developers/dev-interview/issues/6)
 - CPU 스케줄링
 - 프로세스 동기화
+    - [Race Condition에 대해서 설명해주세요](https://github.com/happy-developers/dev-interview/issues/7)
 - deadlock
 - 물리 메모리 관리
 - 가상 메모리 관리
+    - [가상 메모리 관리 전략에 대해서 설명해주세요](https://github.com/happy-developers/dev-interview/issues/8)
 
 </div>
 </details>
