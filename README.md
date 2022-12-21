@@ -16,7 +16,7 @@
 # Repository 작성 Rule
 키워드에 해당하는 질문을 면접 리스트에 추가, 질문을 issue에 추가 및 링크, Comment로 답변
 
-# 면접 리스트
+#  리스트
 <details>
 <summary>운영체제</summary>
 <div markdown="1">
