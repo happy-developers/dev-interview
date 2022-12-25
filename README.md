@@ -54,6 +54,7 @@
     - ipsec
 - http header
 - TCP
+    - [TCP 프로토콜은 무엇이고, 왜 사용하는 것일까요?](https://github.com/happy-developers/dev-interview/issues/12)
     - Active Closer / Passive Closer
     - Piggyback, sliding window
     - Sequence Number, SYN / ACK 등
