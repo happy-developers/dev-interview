@@ -63,7 +63,7 @@
 - UDP, QUIC
 - SSL의 동작 방식
 - [웹사이트 접속 흐름](https://github.com/happy-developers/dev-interview/issues/14)
-- DNS
+- [DNS](https://github.com/happy-developers/dev-interview/issues/10)
 
 </div>
 </details>
