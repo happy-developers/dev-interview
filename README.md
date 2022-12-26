@@ -44,13 +44,10 @@
 <div markdown="1">
 
 ### 핵심 키워드
-- Active close Passive close
-- readtimeout connectiontimeout
-- ssl
+- Read Timeout / Connection Timeout
 - 비잔틴문제
 - http
 - TCP/IP 계층 구조
-- 웹사이트 접속 흐름
 - vpn
     - ipsec
 - http header
