@@ -61,10 +61,14 @@
 - Read Timeout / Connection Timeout
 - 비잔틴문제
 - http
+    - [http란 무엇인가요?](https://github.com/happy-developers/dev-interview/issues/20)
+    - [GET 메서드와 POST 메서드의 차이는 무엇인가요?](https://github.com/happy-developers/dev-interview/issues/21)
+    - [HTTP 보안 공격에는 무엇이 있나요?](https://github.com/happy-developers/dev-interview/issues/22)
+    - [http 버전별 바뀐 점은 무엇인가요?](https://github.com/happy-developers/dev-interview/issues/23)
+    - [https에 대해서 설명해주세요](https://github.com/happy-developers/dev-interview/issues/24)
 - TCP/IP 계층 구조
 - vpn
     - ipsec
-- http header
 - TCP
     - [TCP 프로토콜은 무엇이고, 왜 사용하는 것일까요?](https://github.com/happy-developers/dev-interview/issues/12)
     - Active Closer / Passive Closer
