@@ -18,7 +18,7 @@
 |:---:|:---|:---:|
 |1주차|2022.12.19|[운영체제](https://github.com/happy-developers/dev-interview/issues/17)|
 |2주차|2022.12.26|네트워크|
-|3주차|2023.1.2|데이터베이스|
+|3주차|2023.1.2|[데이터베이스](https://github.com/happy-developers/dev-interview/issues/33)|
 |4주차|2023.1.9|Java|
 |5주차|2023.1.16|Spring|
 |6주차|2023.1.23|운영체제|
@@ -105,7 +105,9 @@
     - BTree
     - 왜 ArrayList가 아닌 B-Tree?
     - Rebalancing
-    - 복합 인덱스 설정 시 정렬되는 순서는?
+    - [인덱스란 무엇인가요?](https://github.com/happy-developers/dev-interview/issues/34)
+    - [cluster index 와 non-cluster index 의 차이점에 대해서 설명해주세요](https://github.com/happy-developers/dev-interview/issues/35)
+    - [복합 인덱스 설정 시 정렬되는 순서는?](https://github.com/happy-developers/dev-interview/issues/36)
 - 옵티마이저
     - 옵티마이저 힌트
     - sql 힌트
