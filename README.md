@@ -124,6 +124,29 @@
 <summary>Java</summary>
 <div markdown="1">
 
+### 핵심 키워드
+- checked exception vs unchecked exception
+- transient
+- overriding vs overloading
+- 동등성 vs 동일성
+- interface vs abstract class
+- Pass by value / reference
+- Java Hashmap
+- Concurrent package
+- volatile
+- equals, hashcode
+- String이 final일까
+- StringBuilder vs StringBuffer
+- synchronized
+- GC
+- 자바 메모리 영역
+- String 과 리터럴
+- 리플렉션
+- 제네릭
+- 타입 이레이저
+- Type token Super Type token
+- serializable
+- JVM
 
 </div>
 </details>
