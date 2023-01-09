@@ -127,13 +127,16 @@
 - checked exception vs unchecked exception
 - transient
 - overriding vs overloading
-- 동등성 vs 동일성
 - interface vs abstract class
+    - [java 8에 추가된 interface 의 기능이 무엇일까요?](https://github.com/happy-developers/dev-interview/issues/43)
+    - [interface vs abstract 차이가 무엇인가요?](https://github.com/happy-developers/dev-interview/issues/44)
 - Pass by value / reference
 - Java Hashmap
+    - [HashMap이 키와 값을 빠르게 찾을 수 있는 이유는 무엇일까요?](https://github.com/happy-developers/dev-interview/issues/46)
 - Concurrent package
 - volatile
 - equals, hashcode
+    - [Object 클래스의 ==, equals, hashcode 연산 관련 질문 (동등성 vs 동일성)](https://github.com/happy-developers/dev-interview/issues/45)
 - String이 final일까
 - StringBuilder vs StringBuffer
 - synchronized
