@@ -155,6 +155,35 @@
 <summary>Spring</summary>
 <div markdown="1">
 
+### 핵심 키워드
+- di 방식 비교: 생성자, setter, field
+- di 어노테이션 비교: @Autowired, @Resource, @Inject
+- 스프링 빈의 스코프
+- AutoConfigure 작동 방식 (@ComponentScan, @EnableAutoConfiguration)
+- 스프링 트라이앵글
+- IOC/DI
+- AOP
+    - aop의 단점
+    - 어노테이션 동작 방식
+- self invocation 문제
+- 순환 참조 문제
+- interceptor vs filter
+- AOP란? OOP와 뭐가 다를까?
+- @Transactional 동작방식
+    - AOP와 함께
+    - 과연 Rollback이 되는 조건이 정해져 있는 걸까?
+    - 언제 동작하지 않을까?
+- @Autowired
+- PSA
+    - PlatformTransactionManager
+    - JDBCTrasactionManager(?)
+    - HibernateTransactionManager
+    - MyBatis(?)TransactionManager
+- DynamicProxy, CGLib
+- HttpMessageConverter, @ResponseBody는 어떻게 동작할까요?
+- Proxy
+- CGLIB
+- springboot
 
 </div>
 </details>
