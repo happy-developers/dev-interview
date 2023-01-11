@@ -93,12 +93,13 @@
 - 트랜잭션
     - ACID
 - lock
-    - s-lock, x-lock
+    - [s-lock, x-lock (Lock의 종류는 어떤 것들이 있나요?)](https://github.com/happy-developers/dev-interview/issues/29)
     - gap lock
     - 낙관적/비관적 락
+    - [Lock의 범위에 따라서 s-lock과 x-lock의 차이가 있나요?](https://github.com/happy-developers/dev-interview/issues/30)
 - mvcc
 - 갱신손실
-- 쓰기스큐
+- [write-skew , phantom-read를 해결하기 위해서는 어떻게 해야 하나요?](https://github.com/happy-developers/dev-interview/issues/31)
 - isolation level
 - 인덱스
     - BTree
