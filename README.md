@@ -17,15 +17,15 @@
 |주차|일시|주제|
 |:---:|:---|:---:|
 |1주차|2022.12.19|[운영체제](https://github.com/happy-developers/dev-interview/issues/17)|
-|2주차|2022.12.26|네트워크|
+|2주차|2022.12.26|[네트워크](https://github.com/happy-developers/dev-interview/issues/19)|
 |3주차|2023.1.2|[데이터베이스](https://github.com/happy-developers/dev-interview/issues/33)|
-|4주차|2023.1.9|Java|
-|5주차|2023.1.16|Spring|
-|6주차|2023.1.23|운영체제|
-|7주차|2023.1.30|네트워크|
-|8주차|2023.2.6|데이터베이스|
-|9주차|2023.2.13|Java|
-|10주차|2023.2.20|Spring|
+|4주차|2023.1.9|[Java](https://github.com/happy-developers/dev-interview/issues/50)|
+|5주차|2023.1.16|[Spring](https://github.com/happy-developers/dev-interview/issues/56)|
+|6주차|2023.1.30|운영체제|
+|7주차|2023.2.6|네트워크|
+|8주차|2023.2.13|데이터베이스|
+|9주차|2023.2.20|Java|
+|10주차|2023.2.27|Spring|
 
 # Repository 작성 Rule
 키워드에 해당하는 질문을 면접 리스트에 추가, 질문을 issue에 추가 및 링크, Comment로 답변
@@ -157,7 +157,9 @@
 
 ### 핵심 키워드
 - di 방식 비교: 생성자, setter, field
+    - [DI란 무엇이고 의존성 주입 방법에 대해서 설명해주세요.](https://github.com/happy-developers/dev-interview/issues/57)
 - di 어노테이션 비교: @Autowired, @Resource, @Inject
+- [스프링 MVC 패턴과 클라이언트 요청이 처리되는 순서에 대해서 설명해주세요.](https://github.com/happy-developers/dev-interview/issues/58)
 - 스프링 빈의 스코프
 - AutoConfigure 작동 방식 (@ComponentScan, @EnableAutoConfiguration)
 - 스프링 트라이앵글
@@ -168,7 +170,9 @@
 - self invocation 문제
 - 순환 참조 문제
 - interceptor vs filter
-- AOP란? OOP와 뭐가 다를까?
+    - [클라이언트 요청 앞단에 요구사항이 추가된다면 어떻게 구현하겠습니까?](https://github.com/happy-developers/dev-interview/issues/59)
+- AOP
+    - [self-invocation에 대해서 설명해주세요.](https://github.com/happy-developers/dev-interview/issues/60)
 - @Transactional 동작방식
     - AOP와 함께
     - 과연 Rollback이 되는 조건이 정해져 있는 걸까?
