@@ -22,7 +22,7 @@
 |4주차|2023.1.9|[Java](https://github.com/happy-developers/dev-interview/issues/50)|
 |5주차|2023.1.16|[Spring](https://github.com/happy-developers/dev-interview/issues/56)|
 |6주차|2023.1.30|운영체제|
-|7주차|2023.2.6|네트워크|
+|7주차|2023.2.6|[네트워크](https://github.com/happy-developers/dev-interview/issues/66)|
 |8주차|2023.2.13|데이터베이스|
 |9주차|2023.2.20|Java|
 |10주차|2023.2.27|Spring|
@@ -75,10 +75,14 @@
     - Piggyback, sliding window
     - Sequence Number, SYN / ACK 등
     - 3way handshake, 4way handshake
+    - [TCP 헤더에 대해서 설명해주세요.](https://github.com/happy-developers/dev-interview/issues/69)
 - UDP, QUIC
+    - [TCP와 UDP의 차이는 무엇인가요?](https://github.com/happy-developers/dev-interview/issues/67)
 - SSL의 동작 방식
 - [웹사이트 접속 흐름](https://github.com/happy-developers/dev-interview/issues/14)
 - [DNS](https://github.com/happy-developers/dev-interview/issues/10)
+- [DNS가 UDP 통신을 사용하는 이유는 무엇인가요?](https://github.com/happy-developers/dev-interview/issues/68)
+- [proxy 서버는 무엇이고 왜 사용하는 걸까요?](https://github.com/happy-developers/dev-interview/issues/70)
 
 </div>
 </details>
