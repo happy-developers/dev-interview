@@ -80,9 +80,9 @@
 - UDP, QUIC
     - [TCP와 UDP의 차이는 무엇인가요?](https://github.com/happy-developers/dev-interview/issues/67)
 - SSL의 동작 방식
-- 웹사이트 접속 흐름
-- DNS
-    - [DNS가 UDP 통신을 사용하는 이유는 무엇인가요?](https://github.com/happy-developers/dev-interview/issues/68)
+- [웹사이트 접속 흐름](https://github.com/happy-developers/dev-interview/issues/14)
+- [DNS](https://github.com/happy-developers/dev-interview/issues/10)
+- [DNS가 UDP 통신을 사용하는 이유는 무엇인가요?](https://github.com/happy-developers/dev-interview/issues/68)
 - [proxy 서버는 무엇이고 왜 사용하는 걸까요?](https://github.com/happy-developers/dev-interview/issues/70)
 
 </div>
