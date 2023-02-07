@@ -41,6 +41,7 @@
     - [프로세스와 스레드의 차이점은 무엇인가요?](https://github.com/happy-developers/dev-interview/issues/4)
     - [멀티스레드와 멀티프로세스의 차이는 무엇인가요?](https://github.com/happy-developers/dev-interview/issues/5)
     - [사용자 스레드와 커널 스레드의 차이점은 무엇인가요?](https://github.com/happy-developers/dev-interview/issues/6)
+    - [Context Switch에 대해서 설명해주세요.](https://github.com/happy-developers/dev-interview/issues/2)
 - CPU 스케줄링
 - 프로세스 동기화
     - [Race Condition에 대해서 설명해주세요](https://github.com/happy-developers/dev-interview/issues/7)
@@ -57,9 +58,7 @@
 <div markdown="1">
 
 ### 핵심 키워드
-- Active close Passive close
-- readtimeout connectiontimeout
-- ssl
+- Read Timeout / Connection Timeout
 - 비잔틴문제
 - http
     - [http란 무엇인가요?](https://github.com/happy-developers/dev-interview/issues/20)
@@ -68,10 +67,10 @@
     - [http 버전별 바뀐 점은 무엇인가요?](https://github.com/happy-developers/dev-interview/issues/23)
     - [https에 대해서 설명해주세요](https://github.com/happy-developers/dev-interview/issues/24)
 - TCP/IP 계층 구조
-- 웹사이트 접속 흐름
 - vpn
     - ipsec
 - TCP
+    - [TCP 프로토콜은 무엇이고, 왜 사용하는 것일까요?](https://github.com/happy-developers/dev-interview/issues/12)
     - Active Closer / Passive Closer
     - Piggyback, sliding window
     - Sequence Number, SYN / ACK 등
@@ -98,12 +97,13 @@
 - 트랜잭션
     - ACID
 - lock
-    - s-lock, x-lock
+    - [s-lock, x-lock (Lock의 종류는 어떤 것들이 있나요?)](https://github.com/happy-developers/dev-interview/issues/29)
     - gap lock
     - 낙관적/비관적 락
+    - [Lock의 범위에 따라서 s-lock과 x-lock의 차이가 있나요?](https://github.com/happy-developers/dev-interview/issues/30)
 - mvcc
 - 갱신손실
-- 쓰기스큐
+- [write-skew , phantom-read를 해결하기 위해서는 어떻게 해야 하나요?](https://github.com/happy-developers/dev-interview/issues/31)
 - isolation level
 - 인덱스
     - BTree
@@ -132,13 +132,16 @@
 - checked exception vs unchecked exception
 - transient
 - overriding vs overloading
-- 동등성 vs 동일성
 - interface vs abstract class
+    - [java 8에 추가된 interface 의 기능이 무엇일까요?](https://github.com/happy-developers/dev-interview/issues/43)
+    - [interface vs abstract 차이가 무엇인가요?](https://github.com/happy-developers/dev-interview/issues/44)
 - Pass by value / reference
 - Java Hashmap
+    - [HashMap이 키와 값을 빠르게 찾을 수 있는 이유는 무엇일까요?](https://github.com/happy-developers/dev-interview/issues/46)
 - Concurrent package
 - volatile
 - equals, hashcode
+    - [Object 클래스의 ==, equals, hashcode 연산 관련 질문 (동등성 vs 동일성)](https://github.com/happy-developers/dev-interview/issues/45)
 - String이 final일까
 - StringBuilder vs StringBuffer
 - synchronized
