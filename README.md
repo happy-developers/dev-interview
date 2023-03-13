@@ -23,9 +23,11 @@
 |5주차|2023.1.16|[Spring](https://github.com/happy-developers/dev-interview/issues/56)|
 |6주차|2023.1.30|운영체제|
 |7주차|2023.2.6|[네트워크](https://github.com/happy-developers/dev-interview/issues/66)|
-|8주차|2023.2.13|데이터베이스|
-|9주차|2023.2.20|Java|
-|10주차|2023.2.27|Spring|
+|8주차|2023.2.13|현용님 모의 면접|
+|9주차|2023.2.20|경오님 모의 면접|
+|10주차|2023.2.27|세훈님 모의 면접|
+|11주차|2023.3.6|이호님 모의 면접|
+|12주차|2023.3.13|[기술 세션](https://github.com/happy-developers/dev-interview/issues/72)|
 
 # Repository 작성 Rule
 키워드에 해당하는 질문을 면접 리스트에 추가, 질문을 issue에 추가 및 링크, Comment로 답변
