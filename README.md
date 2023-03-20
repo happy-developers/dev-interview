@@ -28,6 +28,7 @@
 |10주차|2023.2.27|세훈님 모의 면접|
 |11주차|2023.3.6|이호님 모의 면접|
 |12주차|2023.3.13|[기술 세션](https://github.com/happy-developers/dev-interview/issues/72)|
+|13주차|2023.3.21|[기술 세션](https://github.com/happy-developers/dev-interview/issues/74)|
 
 # Repository 작성 Rule
 키워드에 해당하는 질문을 면접 리스트에 추가, 질문을 issue에 추가 및 링크, Comment로 답변
