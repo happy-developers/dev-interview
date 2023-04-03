@@ -30,6 +30,7 @@
 |12주차|2023.3.13|[기술 세션](https://github.com/happy-developers/dev-interview/issues/72)|
 |13주차|2023.3.21|[기술 세션](https://github.com/happy-developers/dev-interview/issues/74)|
 |14주차|2023.3.28|[Real MySQL 5장](https://github.com/happy-developers/dev-interview/issues/76)
+|15주차|2023.4.4|[Real MySQL 6장](https://github.com/happy-developers/dev-interview/issues/78)
 
 # Repository 작성 Rule
 키워드에 해당하는 질문을 면접 리스트에 추가, 질문을 issue에 추가 및 링크, Comment로 답변
