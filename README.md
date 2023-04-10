@@ -31,7 +31,9 @@
 |13주차|2023.3.21|[기술 세션](https://github.com/happy-developers/dev-interview/issues/74)|
 |14주차|2023.3.28|[Real MySQL 5장](https://github.com/happy-developers/dev-interview/issues/76)
 |15주차|2023.4.4|[Real MySQL 6장](https://github.com/happy-developers/dev-interview/issues/78)
-|16주차|2023.4.10|[Real MySQL 8장](https://github.com/happy-developers/dev-interview/issues/80)
+|16주차|2023.4.10|[Real MySQL 8장](https://github.com/happy-developers/dev-interview/issues/80)  
+
+👉 [이후 활동은 다른 repository로 이전했습니다.](https://github.com/happy-developers/learn-real-mysql)
 
 # Repository 작성 Rule
 키워드에 해당하는 질문을 면접 리스트에 추가, 질문을 issue에 추가 및 링크, Comment로 답변
