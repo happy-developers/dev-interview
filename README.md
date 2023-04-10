@@ -29,9 +29,6 @@
 |11주차|2023.3.6|이호님 모의 면접|
 |12주차|2023.3.13|[기술 세션](https://github.com/happy-developers/dev-interview/issues/72)|
 |13주차|2023.3.21|[기술 세션](https://github.com/happy-developers/dev-interview/issues/74)|
-|14주차|2023.3.28|[Real MySQL 5장](https://github.com/happy-developers/dev-interview/issues/76)
-|15주차|2023.4.4|[Real MySQL 6장](https://github.com/happy-developers/dev-interview/issues/78)
-|16주차|2023.4.10|[Real MySQL 8장](https://github.com/happy-developers/dev-interview/issues/80)  
 
 👉 [이후 활동은 다른 repository로 이전했습니다.](https://github.com/happy-developers/learn-real-mysql)
 
